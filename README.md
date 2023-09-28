@@ -18,4 +18,4 @@ Qualidade e Testes de Software - Análise e Desenvolvimento de Sistemas - FACENS
 ### Arquitetura:</br>
   - A arquitetura não foi respeitada, Código sem congruência.</br>
 ### Conexões:</br>
-  - As conexões não foram fechadas.</br>
+  - As conexões com o banco não foram fechadas.</br>
