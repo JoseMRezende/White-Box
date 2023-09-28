@@ -1,5 +1,7 @@
 # CAIXA BRANCA
-
+<div>
+  <img src="https://github.com/JoseMRezende/White-Box/assets/112033771/5d1bca46-ef09-4f09-a510-e30cdea8a7dc" width="300px" />
+</div>
 ## Descrição
 
 Repositorio para testes de caixa branca.</br>
