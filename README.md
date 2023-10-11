@@ -5,5 +5,5 @@
 
 ## Descrição
 
-Repositorio para testes de caixa branca.</br>
+Repositorio para testes de caixa branca etapa 3.</br>
 Qualidade e Testes de Software - Análise e Desenvolvimento de Sistemas - FACENS</br>
