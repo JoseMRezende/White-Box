@@ -8,7 +8,16 @@
 Repositorio para testes de caixa branca etapa 3.</br>
 Qualidade e Testes de Software - Análise e Desenvolvimento de Sistemas - FACENS</br>
 
-### Código Documentado:
+## Explicação
+
+A documentação em código é uma prática essencial para melhorar a qualidade do software, acelerar o desenvolvimento, facilitar a colaboração e garantir que o conhecimento sobre o código não seja perdido à medida que o projeto evolui.</br>
+É uma parte fundamental da engenharia de software que contribui para um desenvolvimento mais eficiente e eficaz.</br>
+Um ponto importante é que a abordagem para documentação varia amplamente de acordo com a linguagem e a comunidade de desenvolvedores. Algumas linguagens oferecem suporte integrado para
+documentação, enquanto outras dependem de convenções e ferramentas externas. Independentemente da linguagem, a documentação é uma prática importante para facilitar a compreensão, manutenção e
+colaboração no desenvolvimento de software.</br>
+
+
+### Código Documentado
 
 #### Parte 1
 
